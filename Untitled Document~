@@ -1,0 +1,11 @@
+class car
+{
+int speed;
+char model_name;
+public:
+void print_details
+{
+cout<<speed<<endl<<model_name<<endl;
+}
+}
+

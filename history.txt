@@ -1,0 +1,161 @@
+    1  cd Python2\ codespace/
+    2  sublime-text test.py
+    3  python test.py
+    4  sublime-text test.py &
+    5  python test.py
+    6  python test.py
+    7  python test.py
+    8  python test.py
+    9  clear
+   10  git init
+   11  git add test.py 
+   12  git commit -m" Covered till Chapter 4 in Learning Python the hard way"
+   13  git commit -m" Covered till Chapter 4 in Learning Python the hard way"
+   14  python test.py
+   15  python test.py
+   16  clear
+   17  python test.py
+   18  python test.py
+   19  python test.py
+   20  javascript
+   21  cd
+   22  javascript
+   23  ruby
+   24  cl
+   25  clear
+   26  sudo apt-get install ruby
+   27  gedit pds1.c &
+   28  gcc pds1.c
+   29  ./a.out
+   30  gcc pds1.c
+   31  gcc pds1.c
+   32  ./a.out
+   33  gcc pds1.c
+   34  clear
+   35  gcc pds1.c
+   36  gcc pds1.c
+   37  gcc pds1.c
+   38  ./a.out
+   39  gcc pds1.c
+   40  ./a.out
+   41  gedit merrgesort.c &
+   42  clear
+   43  gcc merrgesort.c 
+   44  gcc merrgesort.c 
+   45  a
+   46  ./a.out
+   47  gcc merrgesort.c 
+   48  ./a.out
+   49  gcc merrgesort.c 
+   50  ./a.out
+   51  gcc merrgesort.c 
+   52  ./a.out
+   53  clear
+   54  gedit quicksort.c &
+   55  gedit quiccksort.c &
+   56  gcc merrgesort.c 
+   57  clear
+   58  ./a.out
+   59  gcc quiccksort.c
+   60  gcc quiccksort.c
+   61  gcc quiccksort.c
+   62  ./a.out
+   63  2
+   64  gcc quiccksort.c
+   65  gcc quiccksort.c
+   66  gcc quiccksort.c
+   67  ./a.out
+   68  gcc quiccksort.c
+   69  ./a.out
+   70  cd home
+   71  cd Vodafone/
+   72  run
+   73  install.sh
+   74  lshw
+   75  lshw >a.txt
+   76  hwinfo
+   77  lspci
+   78  lspci>lspci.txt
+   79  lsusb>lsusb.txt
+   80  lsusb
+   81  hwinfo
+   82  vim
+   83  def main():
+   84  sublime-text hellp.py
+   85  python
+   86  python hellp.py
+   87  sublime-text hellp.py
+   88  python hellp.py
+   89  sublime-text hellp.py
+   90  python hellp.py
+   91  sublime-text hellp.py
+   92  python hellp.py
+   93  sublime-text hellp.py &
+   94  python hellp.py
+   95  lsusb
+   96  lscpi
+   97  lspci
+   98  sudo apt-get upgrade
+   99  sudo apt-get upgrade
+  100  sudo apt-get update
+  101  lscpi -nn|grep Broadcom
+  102  lspci -nn|grep Broadcom
+  103  dmesg|grep firmware
+  104  dmesg |grep b43
+  105  dmesg|grep b43
+  106  modprobe bcma
+  107  sudo modprobe bcma
+  108  iwconfig
+  109  rfkil list all
+  110  rfkill list all
+  111  sudo apt-get install linux-firmware-nonfree
+  112  sudo apt-get install linux-firmware-nonfree
+  113  sudo apt-get install linux-firmware-nonfree
+  114  sudo apt-get install linux-firmware-nonfree
+  115  ruby
+  116  sudo apt-get install ruby 1.8
+  117  sudo apt-get install linux-firmware-nonfree
+  118  sudo dkpg --configure -a
+  119  sudo dpkg --configure -a
+  120  sudo apt-get install linux-firmware-nonfree
+  121  sudo apt-get update
+  122  sudo update -pciids
+  123  sudo update-pciids
+  124  sudo apt-get install bcwml-kernel-source
+  125  sudo apt-get install bcmwl-kernel-source
+  126  sudo modprobe -r b43 ssb wl
+  127  sudo modprobe wl
+  128  dmesg
+  129  sudo apt-get remove --purge linux-backports-modules-cw*
+  130  sudo apt-get install --reinstall linux-headers-generic
+  131  sudo apt-get install --reinstall bcmwl-kernel-source
+  132  sudo modprobe wl
+  133  cat /etc/modprobe.d/modprobe.conf
+  134  modprobe b43
+  135  sudo modprobe b43
+  136  sudo apt-get install compat-wireless-patched
+  137  iwlist
+  138  sudo modprobe ndiswrapper
+  139  wget -N -t 5 -T 10 https://github.com/UbuntuForums/wireless-info/raw/master/wireless-info && chmod +x wireless-info && ./wireless-info
+  140  lscpi -nn -d 14e4
+  141  lspci -nn -d 14e4
+  142  lspci -nn -d 14e3
+  143  lspci -nn 
+  144  lspci -nn -d 14e4:
+  145  lspci -nn 
+  146  duso dpkg-reconfigure network-manager
+  147  sudo dpkg-reconfigure network-manager
+  148  sudo apt-get install bcmwl-kernel-source
+  149  sudo apt-get install firmware-b43-installer
+  150  sudo apt-get install bcmwl-kernel-source
+  151  lspci -vvnn | grep -A 9 Network
+  152  (sudo rmmod b43 ; sudo rmmod bcma ; sudo rmmod wl ; sudo modprobe wl ; sudo modprobe lib80211_crypt_tkip)
+  153  rfkill list all
+  154  rfkill list all
+  155  sudo modprobe wl
+  156  uname -r
+  157  sudo apt-get purge linux-firmware-nonfree
+  158  sudo apt-get install firmware-b43-installer
+  159  uname -r
+  160  rfkill unblock all
+  161  history>history.txt
